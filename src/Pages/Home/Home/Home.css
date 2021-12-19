@@ -1,0 +1,13 @@
+.banner{
+    height: 100vh;
+    background: linear-gradient(120deg,rgba(59, 34, 11, 0.568) 10%, transparent 70% ), url('../../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.image {
+    margin:-60px 0 0 -60px;
+   
+}
+
